@@ -7,6 +7,7 @@ import com.evolveum.midpoint.ninja.util.URIConverter;
 /**
  * Created by Viliam Repan (lazyman).
  */
+
 @Parameters(resourceBundle = "messages")
 public class ConnectionOptions {
 
